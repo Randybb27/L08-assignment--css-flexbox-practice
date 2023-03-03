@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+    
+}
+
+.tab {
+background-color:aqua;
+border: 0.5px solid black;
+
+}
+
+.Contact {
+    background-color: aqua;
+    padding: 10px 20px 10px 20px;
+    
+    
+}
+.Home {
+    background-color: darkcyan;
+    padding: 10px 20px 10px 20px;
+}
+.About {
+    background-color: gray;
+    padding: 10px 20px 10px 20px;
+}
+
+.box {
+    display: flex;
+    align-items: flex-start;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.box2 {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+
+}
